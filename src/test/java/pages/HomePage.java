@@ -175,8 +175,6 @@ public class HomePage {
         menu.click();
         dashboardBtn.click();
         myOrderBtn.click();
-        menu.click();
-        smartphone.click();
     }
 
 

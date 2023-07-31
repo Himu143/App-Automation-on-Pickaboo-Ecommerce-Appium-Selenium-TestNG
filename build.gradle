@@ -28,7 +28,7 @@
     test {
         useTestNG() {
 
-            suites "./src/test/resources/suit.xml"
+            suites "./src/test/resources/suite.xml"
 
 
         }
