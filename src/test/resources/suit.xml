@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="Pickaboo-Ecommerce-App">
+    <test name="Pickaboo app automation">
+        <classes>
+            <class name="testrunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
